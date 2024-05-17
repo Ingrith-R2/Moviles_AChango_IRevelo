@@ -3,6 +3,7 @@
 - Ingrith Revelo
 
  Conclusiones:
+ 
 -Durante el desarrollo de la aplicación, aprendí la importancia de la planificación y la comunicación en equipo para asegurar que todas las funcionalidades se implementen de manera efectiva.
 -El proceso de deploy me permitió entender mejor cómo preparar una aplicación para su distribución, incluyendo la optimización de recursos y la gestión de versiones.
 -Implementar un Splash screen agregó un toque profesional a la aplicación y mejoró la experiencia del usuario al brindar una primera impresión visual atractiva.
